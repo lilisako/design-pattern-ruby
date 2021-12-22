@@ -7,7 +7,7 @@
 - [x] Prototype
 - [x] Decorator
 - [x] Proxy
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Builder
 - [ ] Abstract Factory
 - [ ] Bridge
