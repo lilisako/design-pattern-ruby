@@ -5,6 +5,6 @@ class Singleton
   end
 
   def self.get_instance
-    return @singleton
+    @singleton
   end
 end

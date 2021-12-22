@@ -11,4 +11,3 @@
 - [x] Builder
 - [x] Bridge
 - [x] Observer
-- [ ] Memento

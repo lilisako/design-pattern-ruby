@@ -6,7 +6,7 @@ class RandomNumberGenerator < NumberGenerator
   end
 
   def get_number
-    return @number
+    @number
   end
 
   def execute
