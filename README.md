@@ -8,7 +8,7 @@
 - [x] Decorator
 - [x] Proxy
 - [x] Factory Method
-- [ ] Builder
+- [x] Builder
 - [ ] Abstract Factory
 - [ ] Bridge
 - [ ] Observer
