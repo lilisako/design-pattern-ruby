@@ -9,6 +9,6 @@
 - [x] Proxy
 - [x] Factory Method
 - [x] Builder
-- [ ] Bridge
-- [ ] Observer
+- [x] Bridge
+- [x] Observer
 - [ ] Memento
